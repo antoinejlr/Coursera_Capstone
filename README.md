@@ -1,4 +1,4 @@
 # Coursera_Capstone
 This repository contains the notebooks and data sets used for Coursera's IBM Applied Data Science Capstone
 
-Project work to be reviewed in the Jupyter notebook
+Project work for week 2 to be reviewed in the docx or pdf file
